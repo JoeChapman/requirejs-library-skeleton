@@ -46,7 +46,9 @@ grunt
 
 ### Headless Browser Testing w/ PhantomJS
 
-In order for the jasmine task to work properly, [PhantomJS](http://www.phantomjs.org/) must be installed.  Unfortunately, PhantomJS cannot be installed automatically via npm or grunt, so you need to install it yourself. There are a number of ways to install PhantomJS.
+In order for the jasmine task to work properly, [PhantomJS](http://www.phantomjs.org/) must be installed.  
+
+Fortunately, PhantomJS can be installed automatically via npm, so you won't need to install it yourself. However, there are a number of ways to install PhantomJS.
 
 * [PhantomJS and Mac OS X](http://ariya.ofilabs.com/2012/02/phantomjs-and-mac-os-x.html)
 * [PhantomJS Installation](http://code.google.com/p/phantomjs/wiki/Installation) (PhantomJS wiki)
